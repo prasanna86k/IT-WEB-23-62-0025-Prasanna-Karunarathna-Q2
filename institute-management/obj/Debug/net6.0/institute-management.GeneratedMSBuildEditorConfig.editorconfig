@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = institute_management
+build_property.RootNamespace = institute_management
+build_property.ProjectDir = C:\SLIIT - Materials\final-projects\IT-WEB-23-62-0025-Prasanna-Q2\institute-management\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\SLIIT - Materials\final-projects\IT-WEB-23-62-0025-Prasanna-Q2\institute-management
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/course-pg/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlLXBnXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/course-pg/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlLXBnXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/course-pg/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlLXBnXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/course-pg/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlLXBnXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/course-pg/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlLXBnXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/student-pg/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudC1wZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/student-pg/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudC1wZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/student-pg/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudC1wZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/student-pg/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudC1wZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/student-pg/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudC1wZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SLIIT - Materials/final-projects/IT-WEB-23-62-0025-Prasanna-Q2/institute-management/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jql315d6nd
