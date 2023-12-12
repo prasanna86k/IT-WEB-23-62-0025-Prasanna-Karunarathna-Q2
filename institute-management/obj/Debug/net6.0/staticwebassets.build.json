@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UPTzOsIJBYqj77hyOR/f2PVCp434cQs/Lxi1jU4P/NE=",
+  "Hash": "fQRKaixbDM1DP9n4Ct5lXybw/tplYXcKgVbU3jbvx3w=",
   "Source": "institute-management",
   "BasePath": "_content/institute-management",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\institute-management.bundle.scp.css"
     },
     {
+      "Identity": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\css\\cus-style.css",
+      "SourceId": "institute-management",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\",
+      "BasePath": "_content/institute-management",
+      "RelativePath": "css/cus-style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cus-style.css"
+    },
+    {
       "Identity": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\css\\site.css",
       "SourceId": "institute-management",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\images\\img-01.jpg",
+      "SourceId": "institute-management",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\",
+      "BasePath": "_content/institute-management",
+      "RelativePath": "images/img-01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img-01.jpg"
+    },
+    {
+      "Identity": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\images\\img-02.jpg",
+      "SourceId": "institute-management",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\",
+      "BasePath": "_content/institute-management",
+      "RelativePath": "images/img-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img-02.jpg"
     },
     {
       "Identity": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\js\\site.js",

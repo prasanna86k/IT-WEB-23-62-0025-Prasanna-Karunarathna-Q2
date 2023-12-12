@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\institute-management.bundle.scp.css"
     },
     {
+      "Id": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\css\\cus-style.css",
+      "PackagePath": "staticwebassets\\css\\cus-style.css"
+    },
+    {
       "Id": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\images\\img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\images\\img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\img-02.jpg"
     },
     {
       "Id": "C:\\SLIIT - Materials\\final-projects\\IT-WEB-23-62-0025-Prasanna-Q2\\institute-management\\wwwroot\\js\\site.js",
